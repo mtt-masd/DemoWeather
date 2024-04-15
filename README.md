@@ -1,7 +1,5 @@
 <h2 style="margin-bottom: 0;" align="center">Weather City</h2>
 
-<h3 style="margin-top: 0;" align="center">Weather App using MVVM</h3>
-
 ## Tech Stack
 
 * Kotlin
